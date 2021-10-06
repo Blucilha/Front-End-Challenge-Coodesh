@@ -14,11 +14,9 @@ function Clientes() {
 
         stateClients();
     }, [clientRandom]);
-    console.log([clientRandom, clients])
+
     return(
-        <div>
-            <TableClients client={clients} />
-        </div>
+        <TableClients client={clients} />
     )
 }
 
