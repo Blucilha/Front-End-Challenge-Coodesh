@@ -7,3 +7,6 @@ O projeto foi desenvolvido utilizando:
 - React JS;
 - axios;
 - Bootstrap React;
+
+## Como utilizar
+1. 
