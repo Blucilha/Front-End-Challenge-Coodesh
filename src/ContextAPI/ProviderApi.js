@@ -7,7 +7,6 @@ function ProviderApi({ children }) {
 
     const handleApiRandom = async () => {
         const result = await fetchApiRandom();
-        console.log(result)
         setApiRandom(result);
     }
 
